@@ -1,0 +1,5 @@
+# OWASP ASVS
+## Threat modelling
+https://github.com/Santandersecurityresearch/asvs
+docker build -t asvs .
+docker run -d -p 8000:8000 asvs
