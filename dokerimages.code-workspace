@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "rfinow",
+			"path": "../rfinow"
+		},
+		{
+			"name": "cheat_sheet-1",
+			"path": "../cheat_sheet-1"
+		},
+		{
+			"name": "bcbgp",
+			"path": "../bcbgp"
+		}
+	],
+	"settings": {}
+}
